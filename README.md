@@ -8,6 +8,9 @@ This is the app for organizers.
 # Finalities
 This project wants to be a simple example for beginners on how to develop an Android app working with a web server.
 
+# Video demonstration
+The video demonstration of both apps is here: https://www.youtube.com/watch?v=-zYl9JDP6a8&t=
+
 # Thanks to
 1) Volley
 2) Google Maps
