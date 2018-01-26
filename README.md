@@ -11,3 +11,4 @@ This project wants to be a simple example for beginners on how to develop an And
 # Thanks to
 1) Volley
 2) Google Maps
+3) goQR.me (http://goqr.me/api/doc/create-qr-code/)
